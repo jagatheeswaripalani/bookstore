@@ -7,16 +7,19 @@ Book Service: Manages the list of books in the store.
 Order Service: Handles placing and viewing book orders.
 Both services communicate via REST APIs to perform their operations.
 
-🎯 Features
+#🎯 Features
 Add, view, and search for books in the inventory.
 Place an order for a book.
 View all placed orders.
 RESTful APIs for communication between microservices.
-🛠️ Technologies Used
+
+
+#🛠️ Technologies Used
 Python: Core programming language.
 Flask: Lightweight web framework for building APIs.
 Requests: HTTP library for microservice communication.
-📂 Project Structure
+
+#📂 Project Structure
 bash
 Copy
 Edit
@@ -25,7 +28,9 @@ Edit
 ├── order_service.py   # Code for the Order Service
 ├── README.md          # Project documentation
 └── requirements.txt   # Dependencies for the project
-🚀 How to Run the Project
+
+
+#🚀 How to Run the Project
 Prerequisites
 Python 3.7 or higher installed.
 Flask and Requests installed. Install dependencies by running:
@@ -34,8 +39,9 @@ Copy
 Edit
 pip install -r requirements.txt
 Steps to Run
-Clone the Repository:
 
+
+#Clone the Repository:
 bash
 Copy
 Edit
